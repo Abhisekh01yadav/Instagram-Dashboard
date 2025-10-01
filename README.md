@@ -240,5 +240,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Built with ❤️ by [Pavankumar07s](https://github.com/Pavankumar07s)
+Built with ❤️
 #
